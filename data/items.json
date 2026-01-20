@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Minimalist Wireless Headphones",
+        "description": "Premium noise-cancelling headphones with a sleek matte finish and 30-hour battery life. Perfect for deep work and immersive listening.",
+        "price": 249.99,
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+        "id": 2,
+        "name": "Ergonomic Mechanical Keyboard",
+        "description": "Tactile switches with a compact layout. Features customizable RGB backlighting and aircraft-grade aluminum frame.",
+        "price": 129.50,
+        "image": "https://images.unsplash.com/photo-1587829741301-dc798b91a603?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+        "id": 3,
+        "name": "Smart Home Hub 2.0",
+        "description": "Control your entire home with voice commands. Compatible with over 5,000 devices including lights, cameras, and thermostats.",
+        "price": 89.99,
+        "image": "https://images.unsplash.com/photo-1558002038-1091a16617ce?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+        "id": 4,
+        "name": "4K Ultra HD Monitor",
+        "description": "27-inch bezel-less display with 144Hz refresh rate. HDR support for stunning color accuracy and deep contrasts.",
+        "price": 399.00,
+        "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+        "id": 5,
+        "name": "Portable SSD 1TB",
+        "description": "Blazing fast transfer speeds in a pocket-sized design. Shock-resistant and secure encryption for your data on the go.",
+        "price": 159.00,
+        "image": "https://images.unsplash.com/photo-1597872252165-4827e2975b9f?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+        "id": 6,
+        "name": "Smart Fitness Watch",
+        "description": "Track your health metrics, workouts, and sleep patterns. Water-resistant up to 50m with always-on retina display.",
+        "price": 199.95,
+        "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?q=80&w=1000&auto=format&fit=crop"
+    }
+]
